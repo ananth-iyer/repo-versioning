@@ -2,3 +2,5 @@ Magento 2.3 file
 
 New release 2.3
 
+102.3.2
+102.3.1
